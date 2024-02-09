@@ -2,7 +2,7 @@
 
 # Minimal-REST-API
 
-My intention is to represent and recognize in a simple way the use of the different interaction methods towards a web application through a **RESTful-API** (**RE**presentational **S**tate **T**ransfer - **A**pplication **P**rogramming **I**nterface) <a href="[url](https://aws.amazon.com/what-is/restful-api/)" target="_blank">info</a>.
+My intention is to represent and recognize in a simple way the use of the different interaction methods towards a web application through a **RESTful-API** (**RE**presentational **S**tate **T**ransfer - **A**pplication **P**rogramming **I**nterface) [info](https://aws.amazon.com/what-is/restful-api/).
 
 The use of it, I have programmed it only to interact with the concepts without the application of a database, that is, those data inserted (**CREATE**), deleted (**DELETE**), or updated (**PUT**) will not be permanent, they will be ephemeral data which are represented in **JSON** format.
 
