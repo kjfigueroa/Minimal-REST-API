@@ -38,7 +38,7 @@ For the various factors of execution methods `GET`, `CREATE`, `UPDATE`, `DELETE`
 1. Listing the entire list of `dogs` in the center:
 
 ```sh
-]$ curl  -X GET "172.17.0.2:4000/dogs"
+$ curl  -X GET "172.17.0.2:4000/dogs"
 {
   "dog's list": [
     {
